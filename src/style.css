@@ -15,7 +15,15 @@ body {
   background-color: rgb(0, 0, 0, 0.3);
 }
 
-#root {
+.heading {
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 0;
+  background: #fff;
+  color: steelblue;
+}
+
+.CardContainer {
   display: flex;
   justify-content: space-evenly;
   padding-top: 50px;
