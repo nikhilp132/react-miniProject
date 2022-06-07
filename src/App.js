@@ -22,6 +22,16 @@ function App() {
           title="Brooklyn 99"
           link="https://www.netflix.com/in/title/70281562#:~:text=2013%20%7C%20U%2FA%2016%2B,Samberg%2CAndre%20Braugher%2CStephanie%20Beatriz"
         />
+        <Card
+          posterSrc="https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg"
+          title="Brooklyn 99"
+          link="https://www.netflix.com/in/title/70281562#:~:text=2013%20%7C%20U%2FA%2016%2B,Samberg%2CAndre%20Braugher%2CStephanie%20Beatriz"
+        />
+        <Card
+          posterSrc="https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg"
+          title="Brooklyn 99"
+          link="https://www.netflix.com/in/title/70281562#:~:text=2013%20%7C%20U%2FA%2016%2B,Samberg%2CAndre%20Braugher%2CStephanie%20Beatriz"
+        />
       </div>
     </>
   );
