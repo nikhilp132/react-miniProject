@@ -26,7 +26,7 @@ body {
 .CardContainer {
   display: flex;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 30px;
   flex-wrap: wrap;
 }
 
@@ -35,7 +35,12 @@ body {
   border-radius: 10px;
   overflow: hidden;
   background-color: #fff;
-  margin: 10px;
+  margin: 10px 20px;
+}
+
+.cards:hover {
+  transform: scale(1.1);
+  box-shadow: 3px 3px 10px #000;
 }
 
 .card_img {
@@ -51,4 +56,5 @@ body {
   border: 1px solid black;
   background: transparent;
   padding: 2px;
+  cursor: pointer;
 }
