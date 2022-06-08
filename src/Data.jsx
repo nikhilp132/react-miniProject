@@ -18,6 +18,18 @@ const Data = [
     sLink:
       'https://www.netflix.com/in/title/70281562#:~:text=2013%20%7C%20U%2FA%2016%2B,Samberg%2CAndre%20Braugher%2CStephanie%20Beatriz',
   },
+  {
+    posterImg:
+      'https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
+    sTitle: 'The Witcher',
+    sLink: 'https://www.netflix.com/in/title/80189685',
+  },
+  {
+    posterImg:
+      'https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_.jpg',
+    sTitle: 'Sherlock',
+    sLink: 'https://www.netflix.com/za/title/70202589',
+  },
 ];
 
 export default Data;
