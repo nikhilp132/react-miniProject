@@ -4,7 +4,14 @@ import './style.css';
 import Data from './Data';
 
 const nCard = (val) => {
-  return <Card posterSrc={val.posterImg} title={val.sTitle} link={val.sLink} />;
+  return (
+    <Card
+      key={val.id}
+      posterSrc={val.posterImg}
+      title={val.sTitle}
+      link={val.sLink}
+    />
+  );
 };
 
 function App() {
